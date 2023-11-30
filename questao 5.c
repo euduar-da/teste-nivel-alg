@@ -14,4 +14,4 @@ printf ("Fim do laco !\n") ;
 return 0;
 }
 
-// a primeira saóda será 2, já que 2*1; na segunda saída será 200, já que 
+// a primeira saóda será 2, já que 2*1; na segunda saída será 200
